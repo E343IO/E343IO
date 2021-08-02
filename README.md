@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tech2.gamer.spsai@gmail.com**
 
-- ⚡ Fun fact **I don't know what i'm going to do🤣**
+- ⚡ Fun fact **U Know what! actually I don't know what i'm doing🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
