@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mr.Derek</h1>
 <h3 align="center">👨‍💻Beginner in github and IT Filed. Dream to be a pilot of an aircraft and craze to be a C|EH.👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech2gamer&label=Profile%20views&color=0e75b6&style=flat" alt="tech2gamer" /> </p>
-
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech2gamer&label=Profile%20views&color=0e75b6&style=flat" alt="tech2gamer" /> </p> -->
+###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech2gamer" alt="tech2gamer" /></a> </p>
 
-- 🔭 I’m Student (learning things) [My First tool.](https://github.com/tech2gamer/shorturl)
+- 🔭 I’m Student (still learning!) [My First tool.](https://github.com/tech2gamer/shorturl)
 
-- 🌱 I’m currently learning **CSS,JAVA,Python...etc**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Shark](https://github.com/Bhaviktutorials/shark)
+- 👯 I’m looking to collaborate on :- [Shark](https://github.com/Bhaviktutorials/shark)
 
 - 🛑My Blog (in maintenance) [mr-derek-tech.blogspot.com](mr-derek-tech.blogspot.com)
 
