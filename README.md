@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech2gamer&label=Profile%20views&color=0e75b6&style=flat" alt="tech2gamer" /> </p> -->
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech2gamer" alt="tech2gamer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=E343IO" alt="Me.Derek" /></a> </p>
 
 - 🔭 I’m Student (still learning!) [My First tool.](https://github.com/tech2gamer/shorturl)
 
@@ -25,9 +25,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech2gamer&show_icons=true&locale=en&layout=compact" alt="tech2gamer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=E343IO&show_icons=true&locale=en&layout=compact" alt="Mr.Derek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech2gamer&show_icons=true&locale=en" alt="tech2gamer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=E343IO&show_icons=true&locale=en" alt="Mr.Derek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech2gamer&" alt="tech2gamer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=E343IO&" alt="Mr.Derek" /></p>
 
